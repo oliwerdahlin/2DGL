@@ -6,9 +6,9 @@ Just copy the cpp and header files to your project.
 Call S2DGL::init();
 create a S2DGL::Renderer2D
 ## Dependencies
-*[GLAD](https://glad.dav1d.de/) (Any OpenGL loader works, i prefer GLAD)
++[GLAD](https://glad.dav1d.de/) (Any OpenGL loader works, i prefer GLAD)
 *[GLM](https://github.com/g-truc/glm)
-*[stb_image](https://github.com/nothings/stb/blob/master/stb_image.h)
+-[stb_image](https://github.com/nothings/stb/blob/master/stb_image.h)
 *[stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h)
 ## Example
 ```
