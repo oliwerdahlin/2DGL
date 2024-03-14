@@ -1,5 +1,5 @@
 # S2DGL
-2DGL A simple 2D rendering library using OpenGL
+S2DGL A simple 2D rendering library using OpenGL
 
 ## Setup
 Just copy the cpp and header files to your project.
